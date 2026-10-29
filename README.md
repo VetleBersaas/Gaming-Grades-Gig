@@ -17,10 +17,15 @@ The visualizations show that between 0-10 hours of videogames per week is associ
 
 ## How to Use This Project
 Clone or download the GitHub repository. https://github.com/VetleBersaas/Gaming-Grades-Gig/tree/main
+
 Open the project folder in Visual Studio Code.
+
 Ensure Python and the required libraries are installed: pandas, matplotlib, and jupyter.
+
 Place Gaming_Academic_Performance_updated.csv inside a folder named data.
+
 Open gaming_grades.ipynb in VS Code.
+
 Select a Python kernel and run the notebook cells in order.
 
 ## Credits
